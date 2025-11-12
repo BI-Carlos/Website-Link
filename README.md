@@ -1,4 +1,4 @@
-# Carlos A. Rodriguez – Website
+# Carlos A. Rodriguez
 
-Visit my live portfolio site hosted on Bolt:  
-👉 [https://your-bolt-site.bolt.host](https://your-bolt-site.bolt.host)
+Visit my live Website:  
+👉 [https://data-insights-report-ui4b.bolt.host]
